@@ -24,9 +24,3 @@
   url: https://github.com/siakhooi/bash-devy
 - name: buildo
   url: https://github.com/siakhooi/buildo
-- name: ele
-  url: https://github.com/siakhooi/ele
-  description: alpha stage
-- name: cerg
-  url: https://github.com/siakhooi/bash-cerg
-  description: alpha stage
