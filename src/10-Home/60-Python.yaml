@@ -1,9 +1,9 @@
+- name: download-files-by-map
+  url: https://github.com/siakhooi/download-files-by-map
 - name: kafka-republisher
   url: https://github.com/siakhooi/kafka-republisher
 - name: kafka-collector
   url: https://github.com/siakhooi/kafka-collector
-- name: download-files-by-map
-  url: https://github.com/siakhooi/download-files-by-map
 - name: htmligator
   url: https://github.com/siakhooi/htmligator
 - name: terminalizer2asciinema
