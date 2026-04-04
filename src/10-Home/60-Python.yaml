@@ -4,6 +4,8 @@
   url: https://github.com/siakhooi/kafka-republisher
 - name: kafka-collector
   url: https://github.com/siakhooi/kafka-collector
+- name: kafka-emulator
+  url: https://github.com/siakhooi/kafka-emulator
 - name: htmligator
   url: https://github.com/siakhooi/htmligator
 - name: terminalizer2asciinema
