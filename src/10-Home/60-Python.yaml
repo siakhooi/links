@@ -6,6 +6,8 @@
   url: https://github.com/siakhooi/kafka-collector
 - name: kafka-emulator
   url: https://github.com/siakhooi/kafka-emulator
+- name: collector-to-emulator
+  url: https://github.com/siakhooi/collector-to-emulator
 - name: htmligator
   url: https://github.com/siakhooi/htmligator
 - name: terminalizer2asciinema
