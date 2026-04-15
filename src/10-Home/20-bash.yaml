@@ -21,6 +21,6 @@
 - name: date formats
   url: https://github.com/siakhooi/bash-devutils-date-formats
 - name: devy
-  url: https://github.com/siakhooi/bash-devy
+  url: https://github.com/siakhooi/devy
 - name: buildo
   url: https://github.com/siakhooi/buildo
