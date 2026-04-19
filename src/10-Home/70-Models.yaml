@@ -1,6 +1,8 @@
-- name: XOR
-  url: https://github.com/siakhooi/model-xor
-- name: Logic Gates
-  url: https://github.com/siakhooi/model-logic-gates
 - name: Iris
   url: https://github.com/siakhooi/model-iris
+- name: Logic Gates
+  url: https://github.com/siakhooi/model-logic-gates
+- name: XOR
+  url: https://github.com/siakhooi/model-xor
+- name: Spam Classifier
+  url: https://github.com/siakhooi/model-spam-classifier
