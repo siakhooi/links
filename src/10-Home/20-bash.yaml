@@ -11,15 +11,15 @@
   url: https://github.com/siakhooi/image-sitter
   description: manage local docker images
 - name: dev utils
-  url: https://github.com/siakhooi/bash-devutils
+  url: https://github.com/siakhooi/devutils
 - name: text utils
-  url: https://github.com/siakhooi/bash-textutils
+  url: https://github.com/siakhooi/textutils
 - name: file utils
-  url: https://github.com/siakhooi/bash-fileutils
+  url: https://github.com/siakhooi/fileutils
 - name: echo colors
-  url: https://github.com/siakhooi/bash-devutils-echo-colors
+  url: https://github.com/siakhooi/echo-colors
 - name: date formats
-  url: https://github.com/siakhooi/bash-devutils-date-formats
+  url: https://github.com/siakhooi/date-formats
 - name: devy
   url: https://github.com/siakhooi/devy
 - name: buildo
