@@ -10,12 +10,3 @@
 - name: "siakhooi.github.io"
   url: https://github.com/siakhooi/siakhooi.github.io
   description: typescript
-- name: scp-sync-to-local
-  url: https://github.com/siakhooi/nodejs-scp-sync-to-local
-  description: legacy, javascript
-- name: url-shortener
-  url: https://github.com/siakhooi/expressjs-url-shortener
-  description: legacy, ExpressJs
-- name: Tic Tac Toe (Tutorial)
-  url: https://github.com/siakhooi/reactjs-tutorial-tic-tac-toe/
-  description: legacy, ReactJs

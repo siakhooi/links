@@ -16,3 +16,21 @@
   url: https://wiremock.org
 - name: Bruno
   url: https://www.usebruno.com
+- name: hoppscotch.io
+  url: https://hoppscotch.io
+- name: Restlet
+  url: https://restlet.com
+- name: SoapUI
+  url: https://www.soapui.org
+- name: Rest Assured
+  url: https://rest-assured.io
+- name: RestSharp
+  url: https://restsharp.dev
+- name: Dredd
+  url: https://dredd.org
+- name: Mockoon
+  url: https://mockoon.com
+- name: MockServer
+  url: https://www.mock-server.com
+- name: Mocky.io
+  url: https://www.mocky.io

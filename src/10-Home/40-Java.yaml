@@ -1,14 +1,8 @@
 - name: "Query"
   url: https://github.com/siakhooi/query
-- name: "path2json"
-  url: https://github.com/siakhooi/path2json
-  description: "Convert file paths to JSON array (cli, groovy)"
-- name: "semvery"
-  url: https://github.com/siakhooi/semvery
-  description: "semver utilities (cli, java)"
 - name: "jexl-executor"
   url: https://github.com/siakhooi/jexl-executor
-  description: "jexl scripts executor (cli, java)"
-- name: "G5 Application Framework"
-  url: https://github.com/siakhooi/java-g5-framework
-  description: java swing framework (legacy)
+- name: "semvery"
+  url: https://github.com/siakhooi/semvery
+- name: "path2json"
+  url: https://github.com/siakhooi/path2json

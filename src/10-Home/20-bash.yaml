@@ -6,10 +6,8 @@
   description: download,distribute artifacts from various sources
 - name: image runner
   url: https://github.com/siakhooi/image-runner
-  description: run docker images with configured parameters
 - name: image sitter
   url: https://github.com/siakhooi/image-sitter
-  description: manage local docker images
 - name: dev utils
   url: https://github.com/siakhooi/devutils
 - name: text utils
@@ -24,5 +22,3 @@
   url: https://github.com/siakhooi/devy
 - name: buildo
   url: https://github.com/siakhooi/buildo
-- name: publish-to-repo-action
-  url: https://github.com/siakhooi/publish-to-repo-action

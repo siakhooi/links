@@ -13,3 +13,12 @@
 - name: Tic Tac Toe (ReactJS Tutorial)
   url: https://siakhooi.github.io/reactjs-tutorial-tic-tac-toe/
   description: legacy
+- name: "G5 Application Framework"
+  url: https://github.com/siakhooi/java-g5-framework
+  description: java swing framework (legacy)
+- name: scp-sync-to-local
+  url: https://github.com/siakhooi/nodejs-scp-sync-to-local
+  description: legacy, javascript
+- name: url-shortener
+  url: https://github.com/siakhooi/expressjs-url-shortener
+  description: legacy, ExpressJs

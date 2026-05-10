@@ -10,3 +10,8 @@
   url: http://caca.zoy.org/wiki/toilet
 - name: JQ Playground
   url: https://jqplay.org
+- name: just
+  url: https://github.com/casey/just
+- name: fzf
+  url: https://github.com/junegunn/fzf
+  
