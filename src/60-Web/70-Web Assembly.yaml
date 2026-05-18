@@ -1,3 +1,11 @@
+- url: https://developer.mozilla.org/en-US/docs/WebAssembly
+  name: WebAssembly
+- url: https://developer.mozilla.org/en-US/docs/WebAssembly/Guides/C_to_Wasm
+  name: C to WebAssembly
+- url: https://wasmbyexample.dev
+  name: WebAssembly by Example
+- url: https://emscripten.org
+  name: Emscripten
 - name: WebVM.io
   url: https://webvm.io
 - name: WebVM.io/Alpine
