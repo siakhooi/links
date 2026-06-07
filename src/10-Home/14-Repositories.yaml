@@ -2,6 +2,8 @@
   url: https://siakhooi.github.io/apt
 - name: My RPMS Repository
   url: https://siakhooi.github.io/rpms
+- url: https://github.com/siakhooi/homebrew-tap
+  name: Homebrew Tap
 - name: My Helm Charts Repository
   url: https://siakhooi.github.io/helm-charts
 - name: My Certificate Authority
