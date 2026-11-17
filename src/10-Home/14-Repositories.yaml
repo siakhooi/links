@@ -1,20 +1,30 @@
-- name: My APT Repository
-  url: https://siakhooi.github.io/apt
+- name: My APT Linux Repository
+  url: https://siakhooi.github.io/apt-linux
+- name: My APT Termux Repository
+  url: https://siakhooi.github.io/apt-termux
 - name: My RPMS Repository
   url: https://siakhooi.github.io/rpms
+- name: My APT Repository
+  url: https://siakhooi.github.io/apt
 - url: https://github.com/siakhooi/homebrew-tap
   name: Homebrew Tap
+- url: https://github.com/siakhooi/scoop-bucket
+  name: Scoop Bucket
 - name: My Helm Charts Repository
   url: https://siakhooi.github.io/helm-charts
 - name: My Certificate Authority
   url: https://siakhooi.github.io/ca/
 - name: My Devcontainers Repository
   url: https://github.com/siakhooi/devcontainers
-- name: "npmjs/~siakhooi (NPM Profile)"
+- name: "npmjs"
   url: "https://www.npmjs.com/~siakhooi"
-- name: PyPI/Siak Hooi (PIP Profile)
+- name: PyPI.org
   url: "https://pypi.org/user/siakhooi/"
 - name: "Docker Hub"
   url: "https://hub.docker.com/u/siakhooi"
 - name: "ArtifactHub.io"
   url: "https://artifacthub.io/packages/search?repo=siakhooi"
+- name: VisualStudio Marketplace
+  url: https://marketplace.visualstudio.com/publishers/siakhooi
+- url: https://open-vsx.org/namespace/siakhooi
+  name: Open-VSX

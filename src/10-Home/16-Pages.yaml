@@ -2,6 +2,8 @@
   url: "https://siakhooi.github.io"
 - name: Links
   url: https://siakhooi.github.io/links
+- name: Badges
+  url: https://siakhooi.github.io/badges
 - name: Number to Chinese Words (Demo)
   url: https://siakhooi.github.io/number-to-chinese-words
 - name: Carbon War (Scratch Project)
@@ -14,3 +16,5 @@
   url: https://siakhooi.github.io/heroes-of-jin-yong
 - name: 佛经课颂本
   url: https://siakhooi.github.io/buddhism
+- url: https://fibo-planner-189393002108.asia-southeast1.run.app/
+  name: Fibo Planner (on GCP)

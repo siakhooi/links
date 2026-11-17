@@ -1,12 +1,14 @@
 - name: Langkasuka Webcounter
   url: https://github.com/siakhooi/webcounter
   description: serverless web counter (firebase)
+- name: "@siakhooi/gh-pr"
+  url: https://github.com/siakhooi/gh-pr
+- name: textshift
+  url: https://github.com/siakhooi/textshift
+  description: vscode extension
 - name: "@siakhooi/box-drawing"
   url: https://github.com/siakhooi/box-drawing
-  description: typescript
 - name: "@siakhooi/number-to-chinese-words"
   url: https://github.com/siakhooi/number-to-chinese-words
-  description: typescript
 - name: "siakhooi.github.io"
   url: https://github.com/siakhooi/siakhooi.github.io
-  description: typescript
